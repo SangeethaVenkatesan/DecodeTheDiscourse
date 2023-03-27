@@ -72,8 +72,7 @@ Features I would love:
 
 From our Midjourney Friend: Lets Decode the professional conversations and how Large language Models can be a part of it! 
 
-
-![Screenshot 2023-03-27 at 1 05 24 PM](https://user-images.githubusercontent.com/68361331/228014475-72e0bca5-65d4-4f4e-a5bb-7a6fe2378a09.png)
+![Screenshot 2023-03-27 at 1 08 18 PM](https://user-images.githubusercontent.com/68361331/228015124-bad7a323-bf6b-41ef-8a87-1c9fc97a37a3.png)
 
 
 
