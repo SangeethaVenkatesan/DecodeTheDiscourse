@@ -57,13 +57,13 @@ Example conversation:
 
 ```
 
-Featueres till now:
+**Featueres till now**:
 1) API backend set up with phoenix framework - /api/analyzeconvo
 2) Added a recommendation prompt that takes into account history of conversations.
 3) Added a separate summary prompt that helps get the summary of conversations before the message.
 4) Used cohere summarize endpoint to get the bulleted version of summary of conversations. I would love to extend this to an extent on how it could be leveraged to higher extent when going with long context of messages. 
 
-Features I would love:
+**Features I would love**:
 1) To play with prompts that decodes the cognitive aspects in conversations specifically in Linkedin platform
 2) There are so many templates of conversation starter, project request message, collaboration message, appreciation message etc. Would love to see how prompts can be fine tuned on these. 
 
