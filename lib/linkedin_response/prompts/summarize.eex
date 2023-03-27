@@ -1,0 +1,11 @@
+We introduce the Linkedin professional platform summarization,a new task that aims to summarize a conversation between two people on Linkedin.
+The task is motivated by the need to summarize a conversation that enhances the context of conversation and the information that is shared between two people. 
+The generated summary should be precise, and should be able to capture the main points,agreements, and action items of the conversation. The summarized text should be grouped into sections if the 
+conversation spans across multiple date and time. Ensure that the summary maintains a professional tone and is free of any unrelated or informal content.
+---
+<%=
+  history
+  |> Enum.map(fn %{"user" => user, "value" => value} -> "#{user}: #{value}" end)
+  |> Enum.join("\n")
+%> 
+Summary:

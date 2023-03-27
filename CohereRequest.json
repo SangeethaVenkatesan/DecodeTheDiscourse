@@ -1,0 +1,26 @@
+{
+	"history": [
+		{
+			"user": "Sangeetha",
+			"value": "Hello Sudheer, hope you are doing good! I was working on a pipeline for text preprocessing before sending to NLU system to comprehend the message and frame it as question that captures the intent removing not necessary info. I tried to look at how verbosity could be captured, there were resources on finding the independent clause, number of tokens and arrive at a verbosity score. This is just to know when a text needs simplification in the pipeline"
+		},
+		{
+			"user": "Sudheer",
+			"value": "Perplexity is not the right measure for verbosity. Perplexity is a measure of uncertainty. Check out readability metrics. There are good readily available packages in Python."
+		},
+        {
+            "user": "Sangeetha",
+            "value": "Awesome will check it out noww"
+        }
+	],
+	"message": [
+        {
+        "user": "Sudheer",
+        "value": "Sure, Sangeetha, Sounds great! Hope you are doing great!"
+        },
+        {
+            "user": "Sangeetha",
+            "value": ""
+        }
+    ]
+}

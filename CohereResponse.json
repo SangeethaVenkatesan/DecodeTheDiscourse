@@ -1,0 +1,5 @@
+{
+    "recommendation": "Thanks for the suggestion, Sudheer. I'll check out the readability metrics.\nSangeetha.",
+    "summary": "Sangeetha and Sudheer are discussing a pipeline for text preprocessing to comprehend the message and frame it as a question that captures the intent, removing unnecessary information. Sangeetha suggests using readability metrics, and Sudheer suggests using perplexity.",
+    "summary_cohere": "- Sudheer and Sangeetha are discussing text preprocessing for NLP.\n- Sudheer recommends using the readability metrics.\n- Sangeetha hasn't checked them out yet."
+}
